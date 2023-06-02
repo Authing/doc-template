@@ -1,4 +1,4 @@
-# Authing Guard Doc
+# Authing Doc Template
 
 ## install
 
